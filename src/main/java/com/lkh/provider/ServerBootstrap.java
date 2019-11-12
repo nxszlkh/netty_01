@@ -1,6 +1,6 @@
 package com.lkh.provider;
 
-import cn.thinkinjava.netty.NettyServer;
+import com.lkh.netty.NettyServer;
 
 public class ServerBootstrap {
 

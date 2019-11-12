@@ -1,4 +1,4 @@
-package cn.thinkinjava.netty;
+package com.lkh.netty;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;

@@ -1,8 +1,8 @@
-package cn.thinkinjava.netty;
+package com.lkh.netty;
 
+import com.lkh.consumer.ClientBootstrap;
 import com.lkh.provider.HelloServiceImpl;
 
-import cn.thinkinjava.consumer.ClientBootstrap;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 

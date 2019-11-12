@@ -1,10 +1,9 @@
-package cn.thinkinjava.consumer;
+package com.lkh.consumer;
 
 import java.util.Date;
 
 import com.lkh.api.HelloService;
-
-import cn.thinkinjava.netty.NettyClient;
+import com.lkh.netty.NettyClient;
 
 public class ClientBootstrap {
 

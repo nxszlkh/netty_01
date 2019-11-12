@@ -1,4 +1,4 @@
-package cn.thinkinjava.netty;
+package com.lkh.netty;
 
 import java.lang.reflect.Proxy;
 import java.util.concurrent.ExecutorService;
